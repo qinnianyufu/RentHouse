@@ -1,11 +1,13 @@
 ## 功能介绍 
-租房小程序方便运营者打造自己的小程序优势，及时更新核实租赁信息，保障信息的准确性，例如：大概的地址、租金具体多少、条件、优点和缺点;  有拍摄的照片，减少用户实地看房时间，又能降低人力成本，一举双得。同时通过小程序实地推广，让周边顾客了解你，形成互动，不用每天主动找寻信息，转化潜在用户，免费提高自我展示。还能为你还可以沉淀一批房产投资者。有好的房源，都能及时从小程序上获悉，不用天天打电话联系，给自己提供潜在业务。采用腾讯提供的小程序云开发解决方案，无须服务器和域名。
+租房小程序：更多房源聚合:租房小程序把更多的待租房源聚合在一起,解决了租房信息不对等的情况,让租房信息更加透明。提高用户租房效率:用户可以通过租房小程序直接了解房源新,与房东直接沟通,在线租房。通过租房小程序快速满足租房需求。节约租房成本:用户可以通过租房小程序所有待租房子的价格,用户可以选择适合自己价格合适的房子,节约租房成本。对房东来说,开发一款租房小程序,多了一个推广渠道,减少了宣传的成本,快速把房子租出去
 
- ![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+ ![image](https://user-images.githubusercontent.com/115377343/194777288-6b5b7f33-0b0c-416d-9fb7-8500e929e9e7.png)
+
 
 
 # 功能图
-![输入图片说明](demo/%E7%A7%9F%E6%88%BF%E5%B0%8F%E7%A8%8B%E5%BA%8F%20(2).jpeg)
+ ![image](https://user-images.githubusercontent.com/115377343/194777289-fa604d31-4aed-4bd1-aa89-54b7c27aefce.png)
+
 
 
 ## 技术运用
@@ -17,15 +19,11 @@
 
 
 
-## 作者
-- 如有疑问，欢迎骚扰联系我：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
-- 俺的微信: 
- ![输入图片说明](demo/author-base.png)
+ 
 
 
-
-## 演示 
- ![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+## 演示  
+![image](https://user-images.githubusercontent.com/115377343/194777285-8cecfb1b-5ef1-4e89-b16b-c8973af9893b.png)
 
 
 ## 安装
@@ -35,23 +33,25 @@
 
 
 
-## 截图
- ![输入图片说明](demo/1%E6%88%BF%E6%BA%90%E5%88%97%E8%A1%A8.png)
-![输入图片说明](demo/2%E6%88%BF%E6%BA%90%E8%AF%A6%E6%83%851.png)
-![输入图片说明](demo/2%E6%88%BF%E6%BA%90%E8%AF%A6%E6%83%852.png)
-![输入图片说明](demo/3%E6%88%BF%E6%BA%90%E8%AF%A6%E6%83%853.png)
-![输入图片说明](demo/4%E6%88%BF%E6%BA%90%E4%BD%8D%E7%BD%AE.png)
-![输入图片说明](demo/5%E6%88%91%E7%9A%84.jpg)
+## 截图 
+![image](https://user-images.githubusercontent.com/115377343/194777293-ad643ddb-7c39-4330-859d-24aca6bc6e26.png)
+![image](https://user-images.githubusercontent.com/115377343/194777295-fbc3e8fe-7a90-4693-9447-2913b7a07edf.png)
+![image](https://user-images.githubusercontent.com/115377343/194777301-78622657-86c5-44cb-9128-08d44008c73f.png)
+![image](https://user-images.githubusercontent.com/115377343/194777303-f88f507b-4c82-437d-8a8d-e31e4fddb283.png)
+![image](https://user-images.githubusercontent.com/115377343/194777304-093c77eb-15a6-4f00-be66-12019a1bf522.png)
+![image](https://user-images.githubusercontent.com/115377343/194777306-79f08d83-7653-4eb4-8978-5e9b08ab427c.png)
 
 
 ## 后台管理系统截图 
 - 后台超级管理员默认账号:admin，密码123456，请登录后台后及时修改密码和创建普通管理员。
+ 
+![image](https://user-images.githubusercontent.com/115377343/194777310-7b1bc022-c059-43ea-951f-5ef0d344f864.png)
+![image](https://user-images.githubusercontent.com/115377343/194777312-3f558449-e18d-400b-9f93-ce4c30bdbdbf.png)
+![image](https://user-images.githubusercontent.com/115377343/194777317-404002d4-386c-4c07-b056-4a9ff6ed4d0b.png)
+![image](https://user-images.githubusercontent.com/115377343/194777318-c8b6d4c2-4d4d-4459-8ae0-483196b04ae5.png)
+![image](https://user-images.githubusercontent.com/115377343/194777321-54c8d1ff-d110-4734-bf02-f96ce4dd499f.png)
 
-![输入图片说明](demo/6%E5%90%8E%E5%8F%B0-%E9%A6%96%E9%A1%B5.png)
+![image](https://user-images.githubusercontent.com/115377343/194777324-5b30516d-6f32-4ded-9c69-a49218d2463c.png)
 
-![输入图片说明](demo/7%E5%90%8E%E5%8F%B0-%E6%88%BF%E6%BA%90%E7%AE%A1%E7%90%86.png)
 
-![输入图片说明](demo/8%E5%90%8E%E5%8F%B0-%E6%88%BF%E6%BA%90%E6%B7%BB%E5%8A%A0.png)
-![输入图片说明](demo/9%E5%90%8E%E5%8F%B0%E6%88%BF%E6%BA%90%E6%B7%BB%E5%8A%A0-2.jpg)
-![输入图片说明](demo/10%E5%90%8E%E5%8F%B0-%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/11%E5%90%8E%E5%8F%B0-%E7%AE%A1%E7%90%86%E5%91%98%E7%AE%A1%E7%90%86.png)
+
